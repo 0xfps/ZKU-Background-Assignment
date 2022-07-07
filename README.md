@@ -3,12 +3,6 @@ Background Assignment for Zero Knowledge University.
 
 ---
 
-
-
-## **Files included:**
-
-<br/>
-
 - <a href="https://github.com/fps8k/ZKU-Background-Assignment/blob/dev/Assignment%201%20-%20HelloWorld.sol">**Assignment 1 - HelloWorld.sol**</a>
 
 > A basic solidity program that outputs "HelloWorld". Inclucing it's output <a href="https://github.com/fps8k/ZKU-Background-Assignment/blob/dev/Assignment%201%20-%20Screenshot.png">screenshot</a>. 
@@ -46,5 +40,3 @@ Background Assignment for Zero Knowledge University.
 ##
 
 <br/>
-
-- Anthony.
